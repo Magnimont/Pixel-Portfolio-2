@@ -1,5 +1,4 @@
-/*
-random stuff
+
 (function($) {
 
 	var $window = $(window),
